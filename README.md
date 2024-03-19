@@ -3,7 +3,7 @@ Node Hello World
 
 Simple node.js app that servers "Welcome to world of Volvo Cars known for Saftey/durability"
 
-Great for testing simple deployments on Cloud
+
 Step 1: Install NodeJS and NPM using nvm
 
 Install node version manager (nvm) by typing the following at the command line.
