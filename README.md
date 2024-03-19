@@ -49,3 +49,14 @@ npm install
 Start the application To start the application, run the below command in the terminal:
 
 npm start
+![PNG1](https://github.com/hrishidurg/volvo_demo/assets/66934687/347985b1-b02b-40c4-a470-f9ef4803a983)
+
+![PNG2](https://github.com/hrishidurg/volvo_demo/assets/66934687/f6587f91-5075-4d80-a4eb-296c37aea3f0)
+
+![PNG3](https://github.com/hrishidurg/volvo_demo/assets/66934687/45e0ae6d-cc1d-4a66-913f-91d74336fb95)
+
+![PNG4](https://github.com/hrishidurg/volvo_demo/assets/66934687/c2f35f4f-aa17-464a-8185-cf4bbbfc670f)
+
+
+
+
