@@ -39,7 +39,7 @@ This command will print the git version in the terminal.
 
 Run below command to clone the code repository from Github:
 
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/hrishidurg/volvo_demo.git
 
 Get inside the directory and Install Packages
 
