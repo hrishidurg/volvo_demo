@@ -43,7 +43,7 @@ git clone https://github.com/hrishidurg/volvo_demo.git
 
 Get inside the directory and Install Packages
 
-cd nodejs-on-ec2
+cd volvo_demo
 npm install
 
 Start the application To start the application, run the below command in the terminal:
